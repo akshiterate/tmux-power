@@ -8,12 +8,15 @@ This makes it extremely lightweight, fast, and portable across most Linux distri
 
 ## Preview
 <img width="1456" height="32" alt="image" src="https://github.com/user-attachments/assets/8b29ed34-74b3-4ec5-b925-1dd6b44120f0" />
-```text
-BAT:79%[DCHG]
-BAT:54%[CHG]
-BAT:100%[FULL]
-BAT:80%[NCHG]
-```
+
+---
+
+- BAT:79%[DCHG]: Discharging
+- BAT:54%[CHG]: Charging
+- BAT:100%[FULL]: Battery full
+- BAT:80%[NCHG]: Not charging
+
+---
 
 ---
 
