@@ -7,9 +7,8 @@ Unlike many battery widgets that depend on external utilities such as `upower` o
 This makes it extremely lightweight, fast, and portable across most Linux distributions.
 
 ## Preview
-
-```
 <img width="1456" height="32" alt="image" src="https://github.com/user-attachments/assets/8b29ed34-74b3-4ec5-b925-1dd6b44120f0" />
+```
 
 BAT:79%[DCHG]
 BAT:54%[CHG]
