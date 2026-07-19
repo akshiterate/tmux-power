@@ -2,6 +2,8 @@
 
 A lightweight, native battery status plugin for **tmux** written in modern C++.
 
+I use this on an old laptop, which runs my home server without a desktop environment. Since I spend most of my time inside tmux, I wanted a simple way to keep an eye on the battery without leaving my terminal.
+
 Unlike many battery widgets that depend on external utilities such as `upower` or `acpi`, **tmux-power** reads battery information directly from the Linux kernel through `/sys/class/power_supply`.
 
 This makes it extremely lightweight, fast, and portable across most Linux distributions.
